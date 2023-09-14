@@ -1,0 +1,348 @@
+@media(max-width:1440px){
+    .navbar-brand{
+        width:170px;
+    }
+    header {
+        padding: 1.4% 0 0;
+    }
+    .height {
+        min-height: 76vh;
+    }
+    .header_layer {
+        width: 77%;
+    }
+    .header_img_box {
+        right: 12%;
+        width: 45%;
+        bottom: -2%;
+    }
+    .feature_section {
+        padding: 2.5% 0 3%;
+    }
+    .feature_layer {
+        top: -5%;
+    }
+    .feature_img_box {
+        margin: auto;
+        width: 75%;
+    }
+    .heading h1 {
+        margin-bottom: 68px;
+    }
+    .support_item {
+        margin-bottom: 4%;
+    }
+    .support_img_box {
+        width: 80%;
+        margin-left: 18%;
+    }
+    .support_layer {
+        bottom: 2%;
+    }
+    .support_section .btn_quote {
+        margin: 2.4% 0 0;
+    }
+    .process_section {
+        padding: 6% 0 2%;
+    }
+    .process_item {
+        padding: 20% 18% 22%;
+    }
+    .service_layer {
+        bottom: -20%;
+    }
+    .service_img_box {
+        width: 84px;
+    }
+    .question_section .heading h1 {
+        margin: 10% 0 4%;
+    }
+    .question_content h2 {
+        font-size: 24px;
+    }
+    .question_icon_box {
+        margin-right: 3.5%;
+    }
+    .question_wrapper {
+        margin: 0 0 1.4%;
+    }
+    footer {
+        padding: 8% 0 2.5%;
+    }
+    .footer_logo {
+        width: 170px;
+    }
+    .footer_last_row {
+        margin: 2% 0 0;
+    }
+    .footer_layer {
+        width: 63%;
+    }
+    .footer_img_box {
+        top: 7%;
+        width: 46%;
+        right: 10%;
+    }
+}
+
+@media(max-width:1399px){
+    .navbar-brand{
+        width:160px;
+    }
+    .nav-link {
+        word-spacing: 1px;
+        margin-left: 16px;
+    }
+    .btn_call {
+        margin-left: 24px;
+    }
+    .header_layer {
+        width: 72%;
+    }
+    .height {
+        min-height: 68vh;
+    }
+    .header_img_box {
+        right: 11%;
+    }
+    .header_img_box {
+        bottom: -8%;
+    }
+    .feature_section {
+        padding: 6% 0 4%;
+    }
+    .feature_layer {
+        top: -3%;
+    }
+    .feature_img_box {
+        width: 82%;
+    }
+    .item_heading {
+        width: 40%;
+    }
+    .support_item {
+        padding: 22px 0 30px;
+    }
+    .support_content h3 {
+        margin-bottom: 20px;
+    }
+    .support_img_box {
+        width: 91%;
+        margin-left: 17%;
+    }
+    .support_icon_box {
+        width: 86px;
+    }
+    .support_layer {
+        bottom: 3%;
+    }
+    .support_section .btn_quote {
+        margin: 3.4% 0 0;
+    }
+    .process_section .heading h1 {
+        margin-bottom: 11%;
+    }
+    .process_img_box {
+        top: -51px;
+        padding: 16px;
+        width: 96px;
+    }
+    .process_item {
+        padding: 20% 16% 25%;
+    }
+    .service_img_box {
+        width: 80px;
+    }
+    .question_section .heading h1 {
+        margin: 12% 0 5%;
+    }
+    footer .header_heading ul li p {
+        font-size: 17px;
+    }
+    .footer_last_row {
+        margin: 2.5% 0 0;
+    }
+    .footer_img_box {
+        top: 9%;
+        right: 12%;
+    }
+    .footer_logo {
+        width: 160px;
+    }
+    .footer_content p {
+        font-size: 17px;
+    }
+}
+
+@media(max-width:1199px){
+    .navbar-brand{
+        width:145px;
+    }
+    .nav-link {
+        word-spacing: 1px;
+        margin-left: 12px;
+    }
+    .btn_call {
+        padding: 12px 16px !important;
+        font-size: 16px;
+        margin-left: 20px;
+    }
+    .header_heading h1 {
+        font-size: 46px;
+        padding-right: 0;
+    }
+    .btn_quote {
+        font-size: 17px;
+        padding: 16px 30px;
+    }
+    .header_heading p {
+        font-size: 17px;
+    }
+    .height {
+        min-height: 64vh;
+    }
+    .header_img_box {
+        bottom: -4%;
+        right: 12%;
+    }
+    .feature_content h1 {
+        font-size: 46px;
+    }
+    .feature_section {
+        padding: 8.5% 0 4%;
+    }
+    .item_heading h3 {
+        font-size: 23px;
+    }
+    .item_heading {
+        width: 42%;
+    }
+    .heading h1 {
+        font-size: 46px;
+    }
+    .support_content p {
+        padding: 0 5% 0 0;
+    }
+    .support_content h3 {
+        margin-bottom: 18px;
+        font-size: 23px;
+    }
+    .support_icon_box {
+        width: 100px;
+    }
+    .support_img_box {
+        margin-left:8%
+    }
+    .process_item {
+        border-top-left-radius: 104px;
+        border-top-right-radius: 104px;
+        padding: 21% 8% 26%;
+    }
+    .process_img_box {
+        top: -49px;
+        padding: 14px;
+        width: 90px;
+    }
+    .process_item h3 {
+        margin-bottom: 7%;
+        font-size: 23px;
+    }
+    .service_item h3 {
+        font-size: 23px;
+    }
+    .service_item {
+        padding: 9% 7% 29%;
+    }
+    .service_item ul li i {
+        margin-right: 8px;
+    }
+    .service_layer {
+        bottom: -18%;
+    }
+    .question_section .heading h1 {
+        margin: 12% 0 6%;
+    }
+    .question_content h2 {
+        font-size: 23px;
+    }
+    .footer_logo {
+        width: 150px;
+    }
+    .footer_button .btn_call {
+        padding: 12px 20px !important;
+    }
+    .footer_img_box {
+        top: 13%;
+        right: 9%;
+    }
+}
+
+@media(max-width:1024px){
+    .header_img_box {
+        bottom: 11%;
+        right: 12%;
+    }
+    .feature_section {
+        padding: 7.5% 0 4%;
+    }
+    .support_layer {
+        bottom: 5%;
+    }
+    .support_icon_box {
+        width: 114px;
+    }
+    .service_section .heading h1 {
+        margin-bottom: 6%;
+    }
+    .service_layer {
+        bottom: -15%;
+    }
+    .question_wrapper {
+        padding: 1.7% 0 1.7% 3%;
+        margin: 0 0 1.8%;
+    }
+    .footer_img_box {
+        top: 24%;
+    }
+}
+
+@media(max-width:991px){
+    .header_heading h1 {
+        font-size: 43px;
+    }
+    .header_img_box {
+        right: 6%;
+        width:50%;
+    }
+    .feature_content h1 {
+        font-size: 43px;
+    }
+    .feature_img_box {
+        width: 100%;
+    }
+    .item_heading {
+        width: 53%;
+    }
+    .heading h1 {
+        margin-bottom: 60px;
+    }
+    .heading h1 {
+        font-size: 43px;
+    }
+    .support_img_box {
+        width: 100%;
+    }
+    .support_layer {
+        bottom: 7%;
+    }
+    .support_section .btn_quote {
+        margin: 6% 0 0;
+    }
+    .process_section .heading h1 {
+        margin-bottom: 16%;
+    }
+    .process_img_box {
+        padding: 16px;
+        width: 94px;
+    }
+}
